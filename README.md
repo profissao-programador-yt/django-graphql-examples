@@ -9,8 +9,8 @@ https://www.youtube.com/watch?v=lNFrmW8LDQo
 ## SETUP
 
 ```bash
-cd cinema
 pip install -r requirements.txt
+cd cinema
 ./manage.py migrate
 ```
 
