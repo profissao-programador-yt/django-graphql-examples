@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=lNFrmW8LDQo
 
 ```bash
 cd cinema
+pip install -r requirements.txt
 ./manage.py migrate
 ```
 
